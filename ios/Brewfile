@@ -1,0 +1,16 @@
+tap "homebrew/bundle"
+tap "homebrew/services"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "git"
+brew "swiftlint"
+brew "carthage"
+brew "cocoapods" 
+brew "fastlane"
+brew "watchman"
+brew "xcodegen"
+
+cask "iterm2"
+cask "xcode"
+cask "figma"
