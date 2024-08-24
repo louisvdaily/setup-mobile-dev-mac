@@ -1,0 +1,13 @@
+[user]
+    name = "Louis Daily"
+    email = "" # add email as needed
+
+[core]
+    editor = vim
+
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    lg = log --oneline --graph --all
